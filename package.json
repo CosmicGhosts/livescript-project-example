@@ -1,6 +1,6 @@
 {
   "name": "livescript_project_example",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "a simple template of how you can setup your package.json file",
   "main": "./lib/main.js",
   "scripts": {
@@ -12,12 +12,12 @@
   },
   "keywords": [
     "livescript",
-    "bootstrap"
+    "livescript bootstrap"
   ],
   "author": "seanstrom",
   "license": "ISC",
   "devDependencies": {
-    "LiveScript": "^1.2.0",
+    "livescript": "^1.4.0",
     "chai": "^1.9.1",
     "mocha": "^1.21.4"
   }
